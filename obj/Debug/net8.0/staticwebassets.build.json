@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "otU8UaETSgUGxxDTjqpejee7Tzr0XViBBlPEOx9HvDE=",
+  "Source": "user-admin",
+  "BasePath": "_content/user-admin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
