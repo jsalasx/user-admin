@@ -7,7 +7,7 @@ Requisitos Minimos
 
 ## 1. Clonar el Proyecto
 ```
-CREATE DATABASE MiBaseDeDatos;
+git clone https://github.com/jsalasx/user-admin.git
 ```
 
 ## 2. Crear la base de datos
@@ -44,8 +44,10 @@ dotnet build
 ```
 
 ## 7. Ejecutar el proyecto
+El proyecto se ejecturá en http://localhost5276
 ```
 dotnet run
 ```
+
 
 
