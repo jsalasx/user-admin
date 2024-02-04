@@ -12,7 +12,7 @@ git clone https://github.com/jsalasx/user-admin.git
 
 ## 2. Crear la base de datos
 ```
-CREATE DATABASE MiBaseDeDatos;
+CREATE DATABASE pruebas;
 ```
 
 ## 3. Configurar el archivo appsettings.json
