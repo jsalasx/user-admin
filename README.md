@@ -5,6 +5,10 @@ Requisitos Minimos
 .Sql Server v16.
 .Net Entity Framework 8.0.1
 
+### Nota Importante.
+Si desea cambiar el puerto o el host del backend, configurarlo en user-admin.http,
+Si el puerto o el host del front end cambio por defecto (http://localhost:4200), configurar las politicas de CORS en el archivo Program.cs que se encuentra en la raiz del proyecto.
+
 ## 1. Clonar el Proyecto
 ```
 git clone https://github.com/jsalasx/user-admin.git
