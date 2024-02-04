@@ -135,3 +135,4 @@ C:\Users\lordd\source\repos\user-admin\obj\Debug\net8.0\user-admin.pdb
 C:\Users\lordd\source\repos\user-admin\obj\Debug\net8.0\user-admin.genruntimeconfig.cache
 C:\Users\lordd\source\repos\user-admin\obj\Debug\net8.0\ref\user-admin.dll
 C:\Users\lordd\source\repos\user-admin\bin\Debug\net8.0\Bogus.dll
+C:\Users\lordd\source\repos\user-admin\obj\Debug\net8.0\user-admin.sourcelink.json
